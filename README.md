@@ -30,7 +30,7 @@ An interactive 3D iPhone product showcase built using **React**, **Three.js**, a
 ## 🖼️ Preview
 
 
-![3D iPhone Showcase Screenshot](./screenshots/iphone-preview.png)
+![3D iPhone Showcase Screenshot](./iphone-preview.png)
 
 
 ---
